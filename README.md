@@ -1,4 +1,4 @@
-# Smart Medicine Filter App
+# Smart pharmacy App
 
 A pharmacy management system app created in Flutter and backed by Firebase. Includes medicine CRUD, user login/signup, and admin features like search, privacy, and settings.
 
